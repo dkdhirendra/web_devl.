@@ -1,0 +1,27 @@
+body{
+    background-color:#EAF6F6;
+    text-align: center;
+}
+#pic{
+    height: 350px;
+    width: 350px;
+    border-image-source:
+    url	 
+  
+  padding-bottom: 50px;
+}
+hr{
+    padding-top: 20px;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px 0 0 0;
+    width: 20%;
+    color:grey;
+}
+
+h1{
+    font-family:'Agency FB',Arial;
+    font-size: 4em;
+    color:black;
+}
+
